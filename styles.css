@@ -88,3 +88,13 @@
   
     
  }
+a{
+    color: white;
+}
+.image-credit{
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 20%;
+
+}
